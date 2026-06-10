@@ -82,8 +82,6 @@ pnpm install
 pnpm dev
 ```
 
-Open the printed local URL. The demo starts with 50 variable-height items, loads more as you scroll, and includes insertion, deletion, append, and reset controls.
-
 ## Test and Build
 
 ```bash
