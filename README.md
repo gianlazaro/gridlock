@@ -1,4 +1,4 @@
-# Gridlock
+# Gridlock Masonry
 
 A virtualized masonry library for React. By default, it prefers balanced, ordered grids. This prevents one column to be "heavier" than the rest of the columns. For some use cases, solely ordered grids can be enabled. 
 
@@ -15,13 +15,13 @@ A virtualized masonry library for React. By default, it prefers balanced, ordere
 ## Install
 
 ```bash
-pnpm add gridlock
+pnpm add gridlock-masonry
 ```
 
 ## Usage
 
 ```tsx
-import { Masonry } from 'gridlock';
+import { Masonry } from 'gridlock-masonry';
 
 type Pin = {
   id: string;

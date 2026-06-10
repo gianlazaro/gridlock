@@ -1,5 +1,5 @@
 {
-  "name": "gridlock",
+  "name": "gridlock-masonry",
   "version": "0.1.0",
   "description": "A fast and responsive Pinterest-style virtualized masonry grid for React",
   "type": "module",
